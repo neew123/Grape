@@ -1,0 +1,2 @@
+CHANGED,/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/hyphenate/chatuidemo/ui/PhotoDetailActivity$override.class
+CHANGED,/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

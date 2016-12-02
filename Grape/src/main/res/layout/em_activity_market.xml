@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_bar">
+        <com.hyphenate.chatuidemo.widget.ObservableScrollView
+            android:id="@+id/scroll_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fadingEdge="none" >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:src="@drawable/splash"
+                    android:scaleType="fitXY"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="市场"
+                    android:textColor="@color/black_deep"
+                    android:textSize="@dimen/chat_nick_text_size"/>
+            </LinearLayout>
+        </com.hyphenate.chatuidemo.widget.ObservableScrollView>
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <com.hyphenate.easeui.widget.EaseTitleBar
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleBarTitle="@string/market"
+        android:layout_alignParentTop="true"/>
+
+    <ImageButton
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:src="@drawable/plus"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="25dp"
+        android:tint="@android:color/white"
+        android:id="@+id/fab"
+        android:elevation="1dp"
+        android:background="@drawable/ripple"
+        android:stateListAnimator="@anim/fab_anim"
+        />
+</RelativeLayout>

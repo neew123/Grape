@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/GitHub/ImageSelectorDemo/imageselector/src/main/res/values-v19/styles.xml -->
+    <eat-comment/>
+    <style name="ImageSelectorTheme" parent="BaseTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/menu/em_context_tab_contact.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/menu/em_context_tab_contact.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/menu/em_delete_message.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/menu/em_delete_message.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/menu/em_delete_contact.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/menu/em_delete_contact.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/menu/em_context_contact_list.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/menu/em_context_contact_list.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/menu/em_remove_from_blacklist.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/menu/em_remove_from_blacklist.xml"
+    }
+]

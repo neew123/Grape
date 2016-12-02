@@ -1,0 +1,470 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From EaseUIDemo_CN:
+* .gradle/
+* .gradle/2.10/
+* .gradle/2.10/taskArtifacts/
+* .gradle/2.10/taskArtifacts/cache.properties
+* .gradle/2.10/taskArtifacts/cache.properties.lock
+* .gradle/2.10/taskArtifacts/fileHashes.bin
+* .gradle/2.10/taskArtifacts/fileSnapshots.bin
+* .gradle/2.10/taskArtifacts/outputFileStates.bin
+* .gradle/2.10/taskArtifacts/taskArtifacts.bin
+* .gradle/2.10/tasks/
+* .gradle/2.10/tasks/_EaseUI_compileDebugJavaWithJavac/
+* .gradle/2.10/tasks/_EaseUI_compileDebugJavaWithJavac/localClassSetAnalysis/
+* .gradle/2.10/tasks/_EaseUI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+* .gradle/2.10/tasks/_EaseUI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+* .gradle/2.10/tasks/_EaseUI_compileDebugJavaWithJavac/localJarClasspathSnapshot/
+* .gradle/2.10/tasks/_EaseUI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+* .gradle/2.10/tasks/_EaseUI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+* .gradle/2.10/tasks/_EaseUI_compileReleaseJavaWithJavac/
+* .gradle/2.10/tasks/_EaseUI_compileReleaseJavaWithJavac/localClassSetAnalysis/
+* .gradle/2.10/tasks/_EaseUI_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+* .gradle/2.10/tasks/_EaseUI_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+* .gradle/2.10/tasks/_EaseUI_compileReleaseJavaWithJavac/localJarClasspathSnapshot/
+* .gradle/2.10/tasks/_EaseUI_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+* .gradle/2.10/tasks/_EaseUI_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+* .gradle/2.10/tasks/_compileDebugJavaWithJavac/
+* .gradle/2.10/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/
+* .gradle/2.10/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+* .gradle/2.10/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+* .gradle/2.10/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/
+* .gradle/2.10/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+* .gradle/2.10/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileDebugJavaWithJavac/
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileDebugJavaWithJavac/localClassSetAnalysis/
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileDebugJavaWithJavac/localJarClasspathSnapshot/
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileReleaseJavaWithJavac/
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileReleaseJavaWithJavac/localClassSetAnalysis/
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileReleaseJavaWithJavac/localJarClasspathSnapshot/
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+* .gradle/2.10/tasks/_hyphenatechatsdk_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+* .gradle/2.10/tasks/_redpacketlibrary_compileDebugJavaWithJavac/
+* .gradle/2.10/tasks/_redpacketlibrary_compileDebugJavaWithJavac/localClassSetAnalysis/
+* .gradle/2.10/tasks/_redpacketlibrary_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+* .gradle/2.10/tasks/_redpacketlibrary_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+* .gradle/2.10/tasks/_redpacketlibrary_compileDebugJavaWithJavac/localJarClasspathSnapshot/
+* .gradle/2.10/tasks/_redpacketlibrary_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+* .gradle/2.10/tasks/_redpacketlibrary_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+* .gradle/2.10/tasks/_redpacketlibrary_compileReleaseJavaWithJavac/
+* .gradle/2.10/tasks/_redpacketlibrary_compileReleaseJavaWithJavac/localClassSetAnalysis/
+* .gradle/2.10/tasks/_redpacketlibrary_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+* .gradle/2.10/tasks/_redpacketlibrary_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+* .gradle/2.10/tasks/_redpacketlibrary_compileReleaseJavaWithJavac/localJarClasspathSnapshot/
+* .gradle/2.10/tasks/_redpacketlibrary_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+* .gradle/2.10/tasks/_redpacketlibrary_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/gradle.xml
+* .idea/libraries/
+* .idea/libraries/BaiduLBS_Android.xml
+* .idea/libraries/HwPush_SDK_V2705_nomap.xml
+* .idea/libraries/MiPush_SDK_Client_2_2_19.xml
+* .idea/libraries/alipaySdk_20160516.xml
+* .idea/libraries/android_support_v4.xml
+* .idea/libraries/bolts_tasks_1_4_0.xml
+* .idea/libraries/glide_3_6_1.xml
+* .idea/libraries/google_play_services.xml
+* .idea/libraries/multidex_1_0_1.xml
+* .idea/libraries/multidex_instrumentation_1_0_1.xml
+* .idea/libraries/org_apache_http_legacy.xml
+* .idea/libraries/parse_android_1_13_0.xml
+* .idea/libraries/redpacket_3_0_1.xml
+* .idea/libraries/umeng_analytics_v5_2_4.xml
+* .idea/libraries/umeng_update_v2_6_0_1.xml
+* .idea/libraries/volley_1_0_19.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/runConfigurations.xml
+* .idea/workspace.xml
+* LICENSE
+* README.md
+* chatdemo-ui.apk
+* copyright.txt
+* proguard-project.txt
+* redpacketlibrary/
+* redpacketlibrary/.project
+* redpacketlibrary/AndroidManifest.xml
+* redpacketlibrary/README.md
+* redpacketlibrary/build.gradle
+* redpacketlibrary/build.xml
+* redpacketlibrary/libs/
+* redpacketlibrary/libs/alipaySdk-20160516.jar
+* redpacketlibrary/libs/redpacket-3.2.0.jar
+* redpacketlibrary/libs/volley-1.0.19.jar
+* redpacketlibrary/proguard-rules.pro
+* redpacketlibrary/project.properties
+* redpacketlibrary/redpacketlibrary.iml
+* redpacketlibrary/res/
+* redpacketlibrary/res/drawable-xxhdpi/
+* redpacketlibrary/res/drawable-xxhdpi/em_chat_red_packet_normal.png
+* redpacketlibrary/res/drawable-xxhdpi/em_chat_red_packet_pressed.png
+* redpacketlibrary/res/drawable-xxhdpi/em_chat_transfer_normal.png
+* redpacketlibrary/res/drawable-xxhdpi/em_chat_transfer_pressed.png
+* redpacketlibrary/res/drawable-xxhdpi/em_red_packet_ack_message_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/em_red_packet_chatfrom_bg_focused.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_red_packet_chatfrom_bg_normal.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_red_packet_chatto_bg_focused.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_red_packet_chatto_bg_normal.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_red_packet_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/em_transfer_chatfrom_bg_focused.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_transfer_chatfrom_bg_normal.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_transfer_chatto_bg_focused.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_transfer_chatto_bg_normal.9.png
+* redpacketlibrary/res/drawable-xxhdpi/em_transfer_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_add_card_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_alipay_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_arrow_forward.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_avatar.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_back_arrow_black.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_back_arrow_blue.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_back_arrow_grey.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_back_arrow_white.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_back_arrow_yellow.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_bg_circular.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_bg_circular_yellow.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_change_details.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_change_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_change_icon_grey.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_closed_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_closed_yellow_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_error_page_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_exclusive_avatar.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_exclusive_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_exclusive_sender_avatar_bg.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_forget_pwd.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_group_everyone.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_icon_best.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_iv_my_agreement.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_jd_grey_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_jd_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_load_dark.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_my_bankcard.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_no_bankcard.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_no_verify_identity.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_open_packet_bg.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_packet_detail_bg.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_packet_group_detail_bg.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_pass_authentication.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_picture_flash_strong.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_picture_frame_lack.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_picture_right.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_picture_vague.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_pop_bg.9.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_question_black.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_question_blue.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_question_white.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_question_yellow.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_random_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_red_packet_records.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_refresh.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_search_bar_input.9.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_search_icon.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_title_back.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_titlebar_bg.9.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_transfer_success.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_upload_add.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_upload_fail.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_upload_frame.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_upload_success.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_user.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_verify_identity.png
+* redpacketlibrary/res/drawable-xxhdpi/rp_wxpay_icon.png
+* redpacketlibrary/res/drawable/
+* redpacketlibrary/res/drawable/em_chat_red_packet_selector.xml
+* redpacketlibrary/res/drawable/em_chat_transfer_selector.xml
+* redpacketlibrary/res/drawable/em_red_packet_chatfrom_bg.xml
+* redpacketlibrary/res/drawable/em_red_packet_chatto_bg.xml
+* redpacketlibrary/res/drawable/em_transfer_chatfrom_bg.xml
+* redpacketlibrary/res/drawable/em_transfer_chatto_bg.xml
+* redpacketlibrary/res/drawable/rp_btn_blue_cancel_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_blue_default_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_blue_normal_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_blue_pressed_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_blue_selector.xml
+* redpacketlibrary/res/drawable/rp_btn_default_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_grey_normal_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_grey_pressed_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_grey_selector.xml
+* redpacketlibrary/res/drawable/rp_btn_normal_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_open_normal_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_open_normal_shape_unsolid.xml
+* redpacketlibrary/res/drawable/rp_btn_open_pressed_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_open_pressed_shape_unsolid.xml
+* redpacketlibrary/res/drawable/rp_btn_open_selector.xml
+* redpacketlibrary/res/drawable/rp_btn_open_selector_unsolid.xml
+* redpacketlibrary/res/drawable/rp_btn_pressed_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_retry_normal_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_selector.xml
+* redpacketlibrary/res/drawable/rp_btn_white_normal_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_white_pressed_shape.xml
+* redpacketlibrary/res/drawable/rp_btn_white_selector.xml
+* redpacketlibrary/res/drawable/rp_ll_white_shape.xml
+* redpacketlibrary/res/drawable/rp_loading_anim.xml
+* redpacketlibrary/res/drawable/rp_loading_bg.xml
+* redpacketlibrary/res/drawable/rp_open_packet_shape_corner.xml
+* redpacketlibrary/res/drawable/rp_shape_corner.xml
+* redpacketlibrary/res/drawable/rp_shape_white_conner.xml
+* redpacketlibrary/res/drawable/rp_sidebar_background.xml
+* redpacketlibrary/res/layout/
+* redpacketlibrary/res/layout/em_row_received_red_packet.xml
+* redpacketlibrary/res/layout/em_row_received_transfer.xml
+* redpacketlibrary/res/layout/em_row_red_packet_ack_message.xml
+* redpacketlibrary/res/layout/em_row_sent_red_packet.xml
+* redpacketlibrary/res/layout/em_row_sent_transfer.xml
+* redpacketlibrary/res/layout/rp_activity_bind_bankcard.xml
+* redpacketlibrary/res/layout/rp_activity_change.xml
+* redpacketlibrary/res/layout/rp_activity_group_member.xml
+* redpacketlibrary/res/layout/rp_activity_open_packet.xml
+* redpacketlibrary/res/layout/rp_activity_record.xml
+* redpacketlibrary/res/layout/rp_activity_red_packet.xml
+* redpacketlibrary/res/layout/rp_activity_red_packet_detail.xml
+* redpacketlibrary/res/layout/rp_activity_transfer.xml
+* redpacketlibrary/res/layout/rp_activity_transfer_detail.xml
+* redpacketlibrary/res/layout/rp_activity_webview.xml
+* redpacketlibrary/res/layout/rp_bank_city_list_dialog.xml
+* redpacketlibrary/res/layout/rp_bank_city_list_item.xml
+* redpacketlibrary/res/layout/rp_card_list_item.xml
+* redpacketlibrary/res/layout/rp_choose_pay_dialog.xml
+* redpacketlibrary/res/layout/rp_choose_pay_list_item.xml
+* redpacketlibrary/res/layout/rp_choose_record_popup_layout.xml
+* redpacketlibrary/res/layout/rp_choose_verify_popup_layout.xml
+* redpacketlibrary/res/layout/rp_details_list_footer.xml
+* redpacketlibrary/res/layout/rp_details_list_header.xml
+* redpacketlibrary/res/layout/rp_details_list_item.xml
+* redpacketlibrary/res/layout/rp_divider.xml
+* redpacketlibrary/res/layout/rp_error_page.xml
+* redpacketlibrary/res/layout/rp_fragment_bind_bankcard.xml
+* redpacketlibrary/res/layout/rp_fragment_card_list.xml
+* redpacketlibrary/res/layout/rp_fragment_change.xml
+* redpacketlibrary/res/layout/rp_fragment_complete_card_info.xml
+* redpacketlibrary/res/layout/rp_fragment_group_chat_packet.xml
+* redpacketlibrary/res/layout/rp_fragment_group_packet_detail.xml
+* redpacketlibrary/res/layout/rp_fragment_my_bankcard.xml
+* redpacketlibrary/res/layout/rp_fragment_phone_captcha.xml
+* redpacketlibrary/res/layout/rp_fragment_recharge.xml
+* redpacketlibrary/res/layout/rp_fragment_red_packet_detail.xml
+* redpacketlibrary/res/layout/rp_fragment_set_pay_password.xml
+* redpacketlibrary/res/layout/rp_fragment_single_chat_packet.xml
+* redpacketlibrary/res/layout/rp_fragment_single_packet_detail.xml
+* redpacketlibrary/res/layout/rp_fragment_transfer_packet.xml
+* redpacketlibrary/res/layout/rp_fragment_verify_dentity.xml
+* redpacketlibrary/res/layout/rp_fragment_withdraw_money.xml
+* redpacketlibrary/res/layout/rp_gridpasswordview.xml
+* redpacketlibrary/res/layout/rp_group_member_header.xml
+* redpacketlibrary/res/layout/rp_group_member_item.xml
+* redpacketlibrary/res/layout/rp_hint_message_dialog.xml
+* redpacketlibrary/res/layout/rp_loading.xml
+* redpacketlibrary/res/layout/rp_open_exclusive_packet_dialog.xml
+* redpacketlibrary/res/layout/rp_open_packet_dialog.xml
+* redpacketlibrary/res/layout/rp_pay_add_card_dialog.xml
+* redpacketlibrary/res/layout/rp_pay_change_no_pwd_dialog.xml
+* redpacketlibrary/res/layout/rp_pay_has_pwd_dialog.xml
+* redpacketlibrary/res/layout/rp_pay_sms_dialog.xml
+* redpacketlibrary/res/layout/rp_pay_tips_dialog.xml
+* redpacketlibrary/res/layout/rp_popup_layout.xml
+* redpacketlibrary/res/layout/rp_popup_transfer.xml
+* redpacketlibrary/res/layout/rp_received_record_list_header.xml
+* redpacketlibrary/res/layout/rp_received_record_list_item.xml
+* redpacketlibrary/res/layout/rp_record_fragment.xml
+* redpacketlibrary/res/layout/rp_record_list_footer.xml
+* redpacketlibrary/res/layout/rp_send_record_list_header.xml
+* redpacketlibrary/res/layout/rp_send_record_list_item.xml
+* redpacketlibrary/res/layout/rp_textview.xml
+* redpacketlibrary/res/layout/rp_widget_title_bar.xml
+* redpacketlibrary/res/values-zh/
+* redpacketlibrary/res/values-zh/em_strings.xml
+* redpacketlibrary/res/values-zh/rp_strings.xml
+* redpacketlibrary/res/values/
+* redpacketlibrary/res/values/em_strings.xml
+* redpacketlibrary/res/values/em_styles.xml
+* redpacketlibrary/res/values/rp_arrays.xml
+* redpacketlibrary/res/values/rp_attrs.xml
+* redpacketlibrary/res/values/rp_colors.xml
+* redpacketlibrary/res/values/rp_dimens.xml
+* redpacketlibrary/res/values/rp_ids.xml
+* redpacketlibrary/res/values/rp_strings.xml
+* redpacketlibrary/res/values/rp_styles.xml
+* redpacketlibrary/src/
+* redpacketlibrary/src/com/
+* redpacketlibrary/src/com/easemob/
+* redpacketlibrary/src/com/easemob/redpacketui/
+* redpacketlibrary/src/com/easemob/redpacketui/utils/
+* redpacketlibrary/src/com/easemob/redpacketui/utils/RedPacketUtil.java
+* redpacketlibrary/src/com/easemob/redpacketui/widget/
+* redpacketlibrary/src/com/easemob/redpacketui/widget/ChatRowRedPacket.java
+* redpacketlibrary/src/com/easemob/redpacketui/widget/ChatRowRedPacketAck.java
+* redpacketlibrary/src/com/easemob/redpacketui/widget/ChatRowTransfer.java
+* sdkdemoapp3.0_android.iml
+From EaseUI_CN:
+* EaseUI.iml
+* LICENSE
+* README.md
+* build.xml
+* hyphenate.sh
+* ic_launcher-web.png
+* proguard-project.txt
+* simpledemo/
+* simpledemo/.project
+* simpledemo/AndroidManifest.xml
+* simpledemo/ic_launcher-web.png
+* simpledemo/proguard-project.txt
+* simpledemo/project.properties
+* simpledemo/res/
+* simpledemo/res/color/
+* simpledemo/res/color/em_main_botton_text_color.xml
+* simpledemo/res/drawable-hdpi/
+* simpledemo/res/drawable-hdpi/em_contact_list_normal.png
+* simpledemo/res/drawable-hdpi/em_contact_list_selected.png
+* simpledemo/res/drawable-hdpi/em_conversation_normal.png
+* simpledemo/res/drawable-hdpi/em_conversation_selected.png
+* simpledemo/res/drawable-hdpi/em_settings_normal.png
+* simpledemo/res/drawable-hdpi/em_settings_selected.png
+* simpledemo/res/drawable-hdpi/em_unread_count_bg.9.png
+* simpledemo/res/drawable-hdpi/ic_launcher.png
+* simpledemo/res/drawable-mdpi/
+* simpledemo/res/drawable-mdpi/ic_launcher.png
+* simpledemo/res/drawable-xhdpi/
+* simpledemo/res/drawable-xhdpi/ic_launcher.png
+* simpledemo/res/drawable-xxhdpi/
+* simpledemo/res/drawable-xxhdpi/ic_launcher.png
+* simpledemo/res/drawable/
+* simpledemo/res/drawable/em_main_bottom_item_bg.xml
+* simpledemo/res/drawable/em_tab_chat_bg.xml
+* simpledemo/res/drawable/em_tab_contact_list_bg.xml
+* simpledemo/res/drawable/em_tab_setting_bg.xml
+* simpledemo/res/layout/
+* simpledemo/res/layout/activity_chat.xml
+* simpledemo/res/layout/activity_login.xml
+* simpledemo/res/layout/activity_main.xml
+* simpledemo/res/layout/fragment_settings.xml
+* simpledemo/res/values-w820dp/
+* simpledemo/res/values-w820dp/dimens.xml
+* simpledemo/res/values/
+* simpledemo/res/values/dimens.xml
+* simpledemo/res/values/strings.xml
+* simpledemo/src/
+* simpledemo/src/com/
+* simpledemo/src/com/hyphenate/
+* simpledemo/src/com/hyphenate/easeuisimpledemo/
+* simpledemo/src/com/hyphenate/easeuisimpledemo/DemoApplication.java
+* simpledemo/src/com/hyphenate/easeuisimpledemo/ui/
+* simpledemo/src/com/hyphenate/easeuisimpledemo/ui/ChatActivity.java
+* simpledemo/src/com/hyphenate/easeuisimpledemo/ui/LoginActivity.java
+* simpledemo/src/com/hyphenate/easeuisimpledemo/ui/MainActivity.java
+* simpledemo/src/com/hyphenate/easeuisimpledemo/ui/SettingsFragment.java
+From redpacketlibrary:
+* README.md
+* build.gradle
+* build.xml
+* proguard-rules.pro
+* redpacketlibrary.iml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In EaseUI_CN:
+* AndroidManifest.xml => easeUI_CN/src/main/AndroidManifest.xml
+* libs/BaiduLBS_Android.jar => easeUI_CN/libs/BaiduLBS_Android.jar
+* libs/HwPush_SDK_V2705_nomap.jar => easeUI_CN/libs/HwPush_SDK_V2705_nomap.jar
+* libs/MiPush_SDK_Client_2_2_19.jar => easeUI_CN/libs/MiPush_SDK_Client_2_2_19.jar
+* libs/arm64-v8a/libBaiduMapSDK_base_v4_0_0.so => easeUI_CN/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_base_v4_0_0.so
+* libs/arm64-v8a/libBaiduMapSDK_map_v4_0_0.so => easeUI_CN/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_map_v4_0_0.so
+* libs/arm64-v8a/libBaiduMapSDK_util_v4_0_0.so => easeUI_CN/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_util_v4_0_0.so
+* libs/arm64-v8a/libhyphenate.so => easeUI_CN/src/main/jniLibs/arm64-v8a/libhyphenate.so
+* libs/arm64-v8a/libhyphenate_av.so => easeUI_CN/src/main/jniLibs/arm64-v8a/libhyphenate_av.so
+* libs/arm64-v8a/libhyphenate_av_recorder.so => easeUI_CN/src/main/jniLibs/arm64-v8a/libhyphenate_av_recorder.so
+* libs/arm64-v8a/liblocSDK7.so => easeUI_CN/src/main/jniLibs/arm64-v8a/liblocSDK7.so
+* libs/arm64-v8a/libsqlite.so => easeUI_CN/src/main/jniLibs/arm64-v8a/libsqlite.so
+* libs/armeabi/libBaiduMapSDK_base_v4_0_0.so => easeUI_CN/src/main/jniLibs/armeabi/libBaiduMapSDK_base_v4_0_0.so
+* libs/armeabi/libBaiduMapSDK_map_v4_0_0.so => easeUI_CN/src/main/jniLibs/armeabi/libBaiduMapSDK_map_v4_0_0.so
+* libs/armeabi/libBaiduMapSDK_util_v4_0_0.so => easeUI_CN/src/main/jniLibs/armeabi/libBaiduMapSDK_util_v4_0_0.so
+* libs/armeabi/libhyphenate.so => easeUI_CN/src/main/jniLibs/armeabi/libhyphenate.so
+* libs/armeabi/libhyphenate_av.so => easeUI_CN/src/main/jniLibs/armeabi/libhyphenate_av.so
+* libs/armeabi/libhyphenate_av_recorder.so => easeUI_CN/src/main/jniLibs/armeabi/libhyphenate_av_recorder.so
+* libs/armeabi/liblocSDK7.so => easeUI_CN/src/main/jniLibs/armeabi/liblocSDK7.so
+* libs/armeabi/libsqlite.so => easeUI_CN/src/main/jniLibs/armeabi/libsqlite.so
+* libs/glide-3.6.1.jar => easeUI_CN/libs/glide-3.6.1.jar
+* libs/google-play-services.jar => easeUI_CN/libs/google-play-services.jar
+* libs/hyphenatechat_3.2.1.jar => easeUI_CN/libs/hyphenatechat_3.2.1.jar
+* libs/org.apache.http.legacy.jar => easeUI_CN/libs/org.apache.http.legacy.jar
+* libs/x86/libhyphenate.so => easeUI_CN/src/main/jniLibs/x86/libhyphenate.so
+* libs/x86/libhyphenate_av.so => easeUI_CN/src/main/jniLibs/x86/libhyphenate_av.so
+* libs/x86/libhyphenate_av_recorder.so => easeUI_CN/src/main/jniLibs/x86/libhyphenate_av_recorder.so
+* libs/x86/libsqlite.so => easeUI_CN/src/main/jniLibs/x86/libsqlite.so
+* lint.xml => easeUI_CN/lint.xml
+* res/ => easeUI_CN/src/main/res/
+* src/ => easeUI_CN/src/main/java/
+In redpacketlibrary:
+* AndroidManifest.xml => redpacketlibrary/src/main/AndroidManifest.xml
+* libs/alipaySdk-20160516.jar => redpacketlibrary/libs/alipaySdk-20160516.jar
+* libs/redpacket-3.2.0.jar => redpacketlibrary/libs/redpacket-3.2.0.jar
+* libs/volley-1.0.19.jar => redpacketlibrary/libs/volley-1.0.19.jar
+* res/ => redpacketlibrary/src/main/res/
+* src/ => redpacketlibrary/src/main/java/
+In EaseUIDemo_CN:
+* AndroidManifest.xml => easeUIDemo_CN/src/main/AndroidManifest.xml
+* libs/android-support-multidex.jar => easeUIDemo_CN/libs/android-support-multidex.jar
+* libs/bolts-tasks-1.4.0.jar => easeUIDemo_CN/libs/bolts-tasks-1.4.0.jar
+* libs/parse-android-1.13.0.jar => easeUIDemo_CN/libs/parse-android-1.13.0.jar
+* libs/umeng-analytics-v5.2.4.jar => easeUIDemo_CN/libs/umeng-analytics-v5.2.4.jar
+* libs/umeng-update-v2.6.0.1.jar => easeUIDemo_CN/libs/umeng-update-v2.6.0.1.jar
+* lint.xml => easeUIDemo_CN/lint.xml
+* res/ => easeUIDemo_CN/src/main/res/
+* src/ => easeUIDemo_CN/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

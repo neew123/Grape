@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/imageselector_select_uncheck.png",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/mipmap-xhdpi/imageselector_select_uncheck.png"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/imageselector_select_checked.png",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/mipmap-xhdpi/imageselector_select_checked.png"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/imageselector_photo.png",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/mipmap-xhdpi/imageselector_photo.png"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/imageselector_select_photo.png",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/mipmap-xhdpi/imageselector_select_photo.png"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/imageselector_back.png",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/mipmap-xhdpi/imageselector_back.png"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/imageselector_select_album.png",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/mipmap-xhdpi/imageselector_select_album.png"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/imageselector_selected.png",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/mipmap-xhdpi/imageselector_selected.png"
+    }
+]
