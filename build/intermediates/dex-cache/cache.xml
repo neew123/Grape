@@ -1,2 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bmob.android-bmob-sdk-3.5.0_10d11bd183d1d3399e8f4e22d5e83dfe2c20e4db/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_a4a479ef5247986fd238ca7817259fdbaf1f3d4c/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_5edc860d4a1018ab29953b7d617438f59df75739/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.7.0_05db8ce10fad28e4fc8f91b299896db99b9c36e5/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="910154d992dd145d64d2244bf28e3783f7bcfeba">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7f288c6c5579ed679ede0a44ecad9cc81bc6b25/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/jars/libs/hyphenatechat_3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f58e616235c789e9fa97cfe67fa2d8e21273b6c2">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/8/hyphenatechat_3.2.1_5f65012e954f91f2506c36ef498b03e1e29305c0/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/jars/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a25a35b1c5aeca82c3fdf0e0132bd7ce0aff1b9f">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/8/BaiduLBS_Android_29d0588606c2588e7e42f4ad6735aaa1e84da967/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/jars/libs/HwPush_SDK_V2705_nomap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="da979c537c49bd0e2a5c8a768d9b2a485cba6835">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/8/HwPush_SDK_V2705_nomap_168553ee7d2f316aeebd8ae5dbd48f0e1ce3a939/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7225b7d0b1c56f56f96358d0925818c2a3354e85">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/com.yancy.imageselector-imageselector-1.3.3_297932d359000bb9312ba63e72d99aa0665c9d91/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/jars/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cc9b0ca6323a5f883829dec3fb988f387ddbcb57">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/8/org.apache.http.legacy_02f69789eaf1df2e644566837133c700e0662e00/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/.gradle/caches/modules-2/files-2.1/cn.bmob.android/bmob-push/0.8/2fe391ed9034cd023de1da05cb8da77e08b46245/bmob-push-0.8.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/bmob-push-0.8_4c9e5f111e8ff65ee76c9898c436b6f919910c1a/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/libs/android-support-multidex.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9a9d5c95d823ccda38f185a5f80ace6bfd61c0d5">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-multidex_57e634402823547b4c03533d03144739f1948727/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/libs/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/2/bolts-tasks-1.4.0_1739325d0492305e44df9217056da3275200d2c0/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_ffc6fd56b24f54cc2d11c0a35e8e245b27246f66/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="efed8bfdf9288517d4b5081ce9819aa2fa1c4ea6">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9b8cd7a9d30a2b54fa974a635dd817fb6628998/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/jars/libs/MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5336e18cb0c49cd5acc65139d0ea5ddb7c162dd4">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/8/MiPush_SDK_Client_2_2_19_a474f29898f7ba9517d891ec00305feccc64fea2/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/jars/libs/glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2743f5bbd310ac36ce73189620a47f68ca551ac7">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/8/glide-3.6.1_a0b601cee757f5b91fe55b376a8d100b4acaa944/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1299a4a33019f17679e9a96112578732f75a0135">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_a6334398bbce7d3984c4916587124ea296ba0780/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_980d45060776bdeef9f49541df6ca4f147457615/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_488e89f7b6dfe62e638d789163ad7ff8a694e982/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/libs/parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/2/parse-android-1.13.0_cfda190b1f9e1ad1f8be9655b005441859171136/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-1.2.0_abd528b2d933b5f481360f38538eb94ce32643a8/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_e90696951d25b4e3588027a25743fa91199511c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.2.4_8409478d5373d103c9b85312b861ae4fcfda12ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-update-v2.6.0.1_7d01d6b455ad5f9254a85ff357b4a0f8a07d3e8c/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/BmobSDK_3.5.0_20160630.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/BmobSDK_3.5.0_20160630_58ab51e884d44d3e3f3e1f100d275f7e023ac545/classes.dex" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_72aa0be0390a57af4e3fb3eb153de3c11c258558/classes.dex" />
+    </item>
+
+</items>

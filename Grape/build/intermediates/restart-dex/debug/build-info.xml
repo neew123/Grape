@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="22"
-    density="xxhdpi"
+    abi="x86"
+    api-level="21"
+    density="400dpi"
     format="7"
-    timestamp="123554063209743"
-    token="6048191841860440786" >
+    timestamp="1292841200277"
+    token="8293787755241350375" >
 
     <task
         name="javac"
-        duration="2418" />
+        duration="4623" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="70" />
+        duration="3385" />
     <task
         name="verifier"
-        duration="1" />
+        duration="212" />
 
     <artifact
-        location="/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
+        location="/home/cheng/program/program/code/androidProject/Grape/Grape/build/outputs/apk/Grape-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="123036314788318" >
+    <build timestamp="1292841200277" >
         <artifact
-            location="/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/outputs/apk/Grape-debug.apk"
+            location="/home/cheng/program/program/code/androidProject/Grape/Grape/build/outputs/apk/Grape-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="123554063209743" >
-        <artifact
-            location="/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

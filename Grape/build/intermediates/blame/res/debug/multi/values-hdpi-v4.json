@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-hdpi/values-hdpi.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-hdpi/values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

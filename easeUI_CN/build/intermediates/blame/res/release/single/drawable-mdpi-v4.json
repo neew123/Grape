@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_launcher.png",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/src/main/res/drawable-mdpi/ic_launcher.png"
     }

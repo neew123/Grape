@@ -1,458 +1,458 @@
 [
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_focused.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_focused.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_bj.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_btn_cancel_bj.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_red.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_common_gradient_red.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_chat_video_call_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_chat_video_call_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_button_selector_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_button_selector_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_green_normal_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_green_normal_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chatto_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chatto_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_gray_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_gray_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_smiley_add_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_smiley_add_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_gray_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_gray_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_call_hangup_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_call_hangup_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_orange.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_common_gradient_orange.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_timestampe_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_timestampe_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_recording_text_hint_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_recording_text_hint_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_normal.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_chat_video_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_chat_video_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_green_pressed_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_green_pressed_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_common_tab_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_common_tab_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/imageselector_title_right_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/drawable/imageselector_title_right_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_button_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_button_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_blue_pressed_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_btn_blue_pressed_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_focused.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_focused.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_button_selector_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_button_selector_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_green_pressed_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_green_pressed_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_context_menu_item_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_context_menu_item_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_checkbox_bg_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_checkbox_bg_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_timestampe_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_timestampe_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_green.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_common_gradient_green.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_location_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chat_location_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_mm_title_act_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_mm_title_act_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_nickename_input_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_nickename_input_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_send_btn_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chat_send_btn_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_green.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_common_gradient_green.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_button_myprofile_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_button_myprofile_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_normal.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_red.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_common_gradient_red.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_search_clear.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_search_clear.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_tab_contact_list_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_tab_contact_list_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_mm_listitem_grey.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_mm_listitem_grey.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_normal_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_btn_cancel_normal_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_wifi_disable.png",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_wifi_disable.png"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_msg_state_failed_resend.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_msg_state_failed_resend.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_check_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_check_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_pressed_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_btn_cancel_pressed_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_blue_pressed_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_btn_blue_pressed_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_recording_hint_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_recording_hint_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_main_bottom_item_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_main_bottom_item_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_normal.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_normal.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_normal.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_dialog_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_dialog_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_wifi_disable.png",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_wifi_disable.png"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_check_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_check_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ripple.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/ripple.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_roominfo_add_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_roominfo_add_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_chat_file_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_chat_file_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_recording_text_hint_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_recording_text_hint_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_common_tab_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_common_tab_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chatting_setmode_voice_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chatting_setmode_voice_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_logout_normal_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_logout_normal_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chatting_setmode_keyboard_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chatting_setmode_keyboard_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_search_clear.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_search_clear.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_chat_error_item_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_chat_error_item_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_bottom_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_bottom_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_tap.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_normal.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_normal.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_checkbox_bg_gray_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_checkbox_bg_gray_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_blue_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_btn_blue_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_button_login_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_button_login_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_nickename_input_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_nickename_input_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_tab_chat_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_tab_chat_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_focused.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_focused.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_button_normal_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_button_normal_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_logout_pressed_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_logout_pressed_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_bottom_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_bottom_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_check_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_check_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_green_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_green_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_focused.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_chat_voice_call_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_chat_voice_call_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_image_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chat_image_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_check_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_check_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_tap.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_tap.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_takepic_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chat_takepic_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_photogrid_list_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_photogrid_list_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_call_answer_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_call_answer_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_msg_state_failed_resend.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_msg_state_failed_resend.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_checkbox_bg_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_checkbox_bg_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_tab_setting_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_tab_setting_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_style_alert_dialog_special.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_style_alert_dialog_special.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chatting_setmode_voice_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chatting_setmode_voice_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_focused.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_focused.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_sidebar_background_pressed.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_sidebar_background_pressed.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_tab_setting_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_tab_setting_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_logout_normal_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_logout_normal_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_button_register_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_button_register_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_press_speak_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chat_press_speak_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_tap.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_gray_normal_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_gray_normal_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_tab_chat_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_tab_chat_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_camera_switch_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_camera_switch_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_press_speak_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chat_press_speak_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_style_alert_dialog_special.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_style_alert_dialog_special.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_dialog_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_dialog_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_gray_pressed_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_gray_pressed_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_smiley_add_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_smiley_add_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_blue_normal_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_btn_blue_normal_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/imageselector_title_right_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.yancy.imageselector/imageselector/1.3.3/res/drawable/imageselector_title_right_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_focused.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_tap.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_button_normal_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_button_normal_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_bj.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_btn_cancel_bj.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_roominfo_add_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_roominfo_add_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_chat_video_call_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_chat_video_call_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_pressed_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_btn_cancel_pressed_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_location_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chat_location_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_send_btn_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chat_send_btn_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_sidebar_background_pressed.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_sidebar_background_pressed.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_call_hangup_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_call_hangup_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_chat_video_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_chat_video_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_close_bg_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_close_bg_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_button_login_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_button_login_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_type_select_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_type_select_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_title_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_title_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_blue_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_btn_blue_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_gray_pressed_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_gray_pressed_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_takepic_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chat_takepic_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_smiley_minus_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_smiley_minus_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chatto_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chatto_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ripple.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/ripple.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_photogrid_list_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_photogrid_list_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_mm_title_act_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_mm_title_act_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chatfrom_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chatfrom_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_type_select_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_type_select_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_mm_listitem_grey.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_mm_listitem_grey.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_edit_text_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_edit_text_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_tap.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_tap.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_green_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_green_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chatfrom_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chatfrom_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_tap.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_tap.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_title_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_title_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_checkbox_bg_gray_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_checkbox_bg_gray_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_appitem_del_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_appitem_del_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_smiley_minus_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_smiley_minus_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_logout_pressed_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_logout_pressed_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_tap.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_focused.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_btn_green_normal_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_btn_green_normal_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_tap.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_tap.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_button_myprofile_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_button_myprofile_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_camera_switch_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_camera_switch_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_focused.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_chat_voice_call_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_chat_voice_call_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_call_answer_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_call_answer_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_wifi_disable.png",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_wifi_disable.png"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_main_bottom_item_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_main_bottom_item_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_dialog_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_dialog_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_close_bg_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_button_close_bg_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_appitem_del_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_appitem_del_btn.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_button_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_button_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_chat_image_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_chat_image_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_close_bg_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_close_bg_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_mm_listitem.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_mm_listitem.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_mm_listitem.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_mm_listitem.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_selector.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_selector.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_chat_file_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_chat_file_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_orange.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_common_gradient_orange.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_button_register_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_button_register_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_ok_bg_normal.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_ok_bg_normal.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_cancel_normal_shape.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_btn_cancel_normal_shape.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_btn_gray_normal_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_btn_gray_normal_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_close_bg_selector.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_close_bg_selector.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_btn_blue_normal_shape.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_btn_blue_normal_shape.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/bmob_update_button_cancel_bg_normal.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable/bmob_update_button_cancel_bg_normal.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/em_context_menu_item_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/em_context_menu_item_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_dialog_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/umeng_update_dialog_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_edit_text_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_edit_text_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_tab_contact_list_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_tab_contact_list_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/ease_recording_hint_bg.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/drawable/ease_recording_hint_bg.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/em_chat_error_item_bg.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/src/main/res/drawable/em_chat_error_item_bg.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_wifi_disable.png",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_wifi_disable.png"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/drawable/ease_chatting_setmode_keyboard_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/drawable/ease_chatting_setmode_keyboard_btn.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_normal.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/Grape/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml"
     }
 ]

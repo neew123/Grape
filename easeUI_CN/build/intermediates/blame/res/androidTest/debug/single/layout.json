@@ -1,27 +1,11 @@
 [
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_voice_recorder.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_voice_recorder.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_conversation_list.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_fragment_conversation_list.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_chat_primary_menu.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_chat_primary_menu.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_video.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_video.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_voice.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_voice.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_voice_call.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_voice_call.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_commom_back_btn.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_commom_back_btn.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_emojicon.xml",
@@ -32,6 +16,14 @@
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_layout_chat_primary_menu.xml"
     },
     {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_picture.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_picture.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_bigexpression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_bigexpression.xml"
+    },
+    {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_chat_menu_item.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_chat_menu_item.xml"
     },
@@ -40,36 +32,172 @@
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_message.xml"
     },
     {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_location.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_location.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_chat_primary_menu.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_emojicon.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_contact_list.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_voice_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_voice_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_activity_baidumap.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_activity_baidumap.xml"
+    },
+    {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_video.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_video.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_picture.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_picture.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_video_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_video_call.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_expression_gridview.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_expression_gridview.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_contact_list.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_contact_list.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_title_bar.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_title_bar.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_emojicon_tab_bar.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_conversation_list.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_voice_recorder.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_chat_message_list.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_chat_message_list.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_expression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_expression.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_conversation_list.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_contact.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_contact.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_commom_back_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_bigexpression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_search_bar_with_padding.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_chat_history.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_chat_history.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_layout_emojicon_menu.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_emojicon.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_emojicon.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_title_bar.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_chat_primary_menu.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_chat_primary_menu.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_search_bar_with_padding.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_search_bar_with_padding.xml"
     },
     {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_title_bar.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_title_bar.xml"
+    },
+    {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_video.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_video.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_bigexpression.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_bigexpression.xml"
-    },
-    {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_contact.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_contact.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_activity_show_big_image.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_picture.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_picture.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_location.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_location.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_activity_show_file.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_activity_show_file.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_expression_gridview.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_expression_gridview.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_big_expression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_big_expression.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_commom_back_btn.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_switch_button.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_search_bar.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_search_bar.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_chat_menu_item.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_expression_gridview.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_expression_gridview.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_message.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_message.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_bigexpression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_bigexpression.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_chat_message_list.xml",
@@ -80,28 +208,24 @@
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_showvideo_activity.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_location.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_location.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_expression.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_expression.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_emojicon_tab_bar.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_emojicon_tab_bar.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_video_call.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_video_call.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_voice_recorder.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_voice_recorder.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_chat_history.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_chat_history.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_switch_button.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_switch_button.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_showvideo_activity.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_chat.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_fragment_chat.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_voice.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_voice.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_message.xml",
@@ -112,28 +236,84 @@
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_file.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_voice_call.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_voice_call.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_picture.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_picture.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_activity_show_file.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_activity_show_file.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_location.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_location.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_chat_input_menu.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_chat_input_menu.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_file.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_file.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_layout_emojicon_menu.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_layout_emojicon_menu.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_scroll_tab_item.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_scroll_tab_item.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_chat_input_menu.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_alert_dialog.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_alert_dialog.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_voice.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_voice.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_expression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_expression.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_location.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_location.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_emojicon_tab_bar.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_voice_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_video_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_layout_chat_primary_menu.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_widget_switch_button.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_file.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_file.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_voice_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_location.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_location.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_video.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_video.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_layout_emojicon_menu.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_layout_emojicon_menu.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_activity_baidumap.xml",
@@ -144,32 +324,20 @@
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_widget_contact_list.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_alert_dialog.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_alert_dialog.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_bigexpression.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_bigexpression.xml"
-    },
-    {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_activity_show_big_image.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_activity_show_big_image.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_file.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_file.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_chat.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_fragment_chat.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_big_expression.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_big_expression.xml"
-    },
-    {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_emojicon.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_emojicon.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_video_call.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_video_call.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_conversation_item.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_conversation_item.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_search_bar.xml",
@@ -180,19 +348,47 @@
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_scroll_tab_item.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_conversation_item.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_conversation_item.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_message.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_message.xml"
     },
     {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_picture.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_picture.xml"
     },
     {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_voice.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_voice.xml"
+    },
+    {
         "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_contact_list.xml",
         "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_fragment_contact_list.xml"
     },
     {
-        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_voice.xml",
-        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_voice.xml"
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_bigexpression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_activity_show_big_image.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_big_expression.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_big_expression.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_received_video_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_row_sent_video_call.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_conversation_item.xml",
+        "source": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_conversation_item.xml"
+    },
+    {
+        "merged": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/res/merged/androidTest/debug/layout/ease_alert_dialog.xml",
+        "source": "/home/cheng/program/program/code/androidProject/Grape/easeUI_CN/build/intermediates/bundles/debug/res/layout/ease_alert_dialog.xml"
     }
 ]

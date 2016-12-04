@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "outputFile": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge-land/values-xlarge-land.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-xlarge-land/values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "outputFile": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 219
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 638
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 1063
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 1491
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 1917
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 2346
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 2771
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -158,7 +158,7 @@
                     "endOffset": 2860
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -177,7 +177,7 @@
                     "endOffset": 2961
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -197,7 +197,7 @@
                     "endOffset": 3369
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -218,7 +218,7 @@
                     "endOffset": 3789
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 3896
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 4025
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -281,7 +281,7 @@
                     "endOffset": 4389
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -301,7 +301,7 @@
                     "endOffset": 4460
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 4543
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 8292
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
@@ -361,7 +361,7 @@
                     "endOffset": 12181
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 4,
@@ -382,7 +382,7 @@
                     "endOffset": 12356
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -402,7 +402,7 @@
                     "endOffset": 12441
                 },
                 "from": {
-                    "file": "/home/cheng/program/program/code/androidProject/ChatDemoUI3.0/Grape/build/intermediates/exploded-aar/ChatDemoUI3.0/easeUI_CN/unspecified/res/values-v11/values-v11.xml",
+                    "file": "/home/cheng/program/program/code/androidProject/Grape/Grape/build/intermediates/exploded-aar/Grape/easeUI_CN/unspecified/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
