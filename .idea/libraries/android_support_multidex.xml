@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="android-support-multidex">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Grape/libs/android-support-multidex.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
