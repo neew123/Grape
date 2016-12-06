@@ -2,6 +2,7 @@ package com.hyphenate.bmob.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.List;
 
 import cn.bmob.v3.BmobObject;
 import cn.bmob.v3.datatype.BmobFile;
@@ -17,14 +18,14 @@ public class Post extends BmobObject implements Serializable{
 
     private String author;
     private String content;
-    private ArrayList<BmobFile> photoList;
-    private ArrayList<String> likeList;
+    private List<BmobFile> photoList;
+    private List<String> likeList;
 
-    public ArrayList<BmobFile> getPhotoList() {
+    public List<BmobFile> getPhotoList() {
         return photoList;
     }
 
-    public void setPhotoList(ArrayList<BmobFile> photoList) {
+    public void setPhotoList(List<BmobFile> photoList) {
         this.photoList = photoList;
     }
 
@@ -44,7 +45,7 @@ public class Post extends BmobObject implements Serializable{
         this.author = author;
     }
 
-    public ArrayList<String> getLikeList() {
+    public List<String> getLikeList() {
         return likeList;
     }
 

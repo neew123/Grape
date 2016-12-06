@@ -39,7 +39,7 @@ public class PostModel extends PostModelImpl {
         BmobQuery<Post> query = new BmobQuery<Post>();
         query.setLimit(10);
         if(page>0)
-            query.setSkip(page);
+            query.setSkip(page*10);
         query.order("-createdAt");//按创建时间排序，（- ：降序；+ 升序）
         query.findObjects(new FindListener<Post>() {
             @Override

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/post_margin_top_2"
+    android:layout_marginLeft="@dimen/post_margin_left"
+    android:layout_marginRight="@dimen/post_margin_left"
+    android:background="@color/white"
+    app:cardCornerRadius="10dp"
+    app:elevation="1dp">
+    <LinearLayout
+        android:layout_marginTop="@dimen/post_margin_top_2"
+        android:layout_marginBottom="@dimen/post_margin_top_2"
+        android:layout_marginLeft="@dimen/post_margin_left"
+        android:layout_marginRight="@dimen/post_margin_left"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/post_photo"
+                android:layout_width="@dimen/size_avatar"
+                android:layout_height="@dimen/size_avatar"
+                android:scaleType="fitXY"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/em_default_avatar"/>
+            <TextView
+                android:id="@+id/post_nickname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/post_photo"
+                android:layout_marginLeft="@dimen/post_margin_left_2"
+                android:gravity="center_vertical"
+                android:textSize="16sp"
+                android:text="Jason"
+                android:textColor="@color/black"
+                android:layout_centerVertical="true"/>
+            <TextView
+                android:id="@+id/post_sendtime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/post_margin_left"
+                android:layout_centerVertical="true"
+                android:text="3分钟前"
+                android:textSize="10sp"
+                android:textColor="@color/black"/>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/post_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/post_margin_top_2"
+            android:layout_marginBottom="@dimen/post_margin_top_2"
+            android:lineSpacingExtra = "5dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

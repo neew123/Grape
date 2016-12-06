@@ -1,6 +1,7 @@
 package com.hyphenate.chatuidemo.ui;
 
 import android.app.AlertDialog;
+import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,11 +9,15 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.GridView;
+import android.widget.Toast;
 
+import com.hyphenate.bmob.domain.Post;
+import com.hyphenate.bmob.model.PostModel;
+import com.hyphenate.bmob.model.impl.PostModelImpl;
+import com.hyphenate.chatuidemo.DemoHelper;
 import com.hyphenate.chatuidemo.R;
 import com.hyphenate.chatuidemo.adapter.PickGridAdapter;
 import com.hyphenate.chatuidemo.utils.GlideLoader;
-import com.hyphenate.easeui.ui.EaseShowBigImageActivity;
 import com.hyphenate.easeui.widget.EaseTitleBar;
 import com.yancy.imageselector.ImageConfig;
 import com.yancy.imageselector.ImageSelector;
@@ -21,31 +26,44 @@ import com.yancy.imageselector.ImageSelectorActivity;
 import java.util.ArrayList;
 import java.util.List;
 
+import cn.bmob.v3.datatype.BmobFile;
+import cn.bmob.v3.listener.UploadBatchListener;
+
 /**
  * Created by cheng on 16-12-2.
  */
-public class NewPostActivity extends BaseActivity implements View.OnClickListener{
+public class NewPostActivity extends BaseActivity{
+
+    private static final String TAG = "NewPostActivity";
 
     private static final int REQUEST_CODE = 1000;
     private EditText contentEdit;
     private EaseTitleBar titleBar;
     private GridView gridview;
     private PickGridAdapter gridAdapter;
-
+    private ProgressDialog progressDialog;
     private ArrayList<String> path = new ArrayList<>();
     private int photoRemain = 9;
+
+    private Post mPost;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.em_activity_new_post);
+        initData();
         initView();
     }
 
     private void initView() {
         titleBar = (EaseTitleBar)findViewById(R.id.title_bar);
         contentEdit = (EditText)findViewById(R.id.content_edit);
-        titleBar.setRightLayoutClickListener(this);
+        titleBar.setRightLayoutClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                sendPost();
+            }
+        });
         titleBar.setRightImageResource(R.drawable.send_plane);
         gridview = (GridView)findViewById(R.id.gridview);
         gridAdapter = new PickGridAdapter(this);
@@ -65,6 +83,9 @@ public class NewPostActivity extends BaseActivity implements View.OnClickListene
         });
     }
 
+    private void initData(){
+        mPost = new Post();
+    }
 
     public void updatePhoto(){
 
@@ -117,13 +138,80 @@ public class NewPostActivity extends BaseActivity implements View.OnClickListene
         }
     }
 
-    @Override
-    public void onClick(View view) {
-        switch (view.getId()){
-            case R.id.right_image:
-                break;
-            default:
-                break;
+    private void sendPost() {
+        if (progressDialog == null)
+            progressDialog = new ProgressDialog(this);
+        progressDialog.setMessage("上传发送");
+        progressDialog.setCancelable(false);
+        progressDialog.show();
+
+        final String content = contentEdit.getText().toString();
+        if( (path.isEmpty() && ( content==null || content.isEmpty() || content==""))){
+            progressDialog.dismiss();
+            Toast.makeText(this,"发送内容不能为空",Toast.LENGTH_SHORT).show();
+            return;
+        }
+
+        if(!path.isEmpty()) {
+            BmobFile.uploadBatch((String[]) path.toArray(new String[0]), new UploadBatchListener() {
+                @Override
+                public void onSuccess(List<BmobFile> files, List<String> urls) {
+                    if (urls.size() == path.size()) {
+                        mPost.setPhotoList(files);
+                        mPost.setAuthor(DemoHelper.getInstance().getCurrentUsernName());
+                        if(content!=null && content!=""){
+                            mPost.setContent(content);
+                        }
+                        PostModel postModel = new PostModel();
+                        postModel.createPost(mPost, new PostModelImpl.PostListener<String>() {
+                            @Override
+                            public void getSuccess(String s) {
+                                progressDialog.dismiss();
+                                Toast.makeText(NewPostActivity.this,"发送成功",Toast.LENGTH_SHORT).show();
+                                finish();
+                            }
+                            @Override
+                            public void getFailure() {
+                                Toast.makeText(NewPostActivity.this, "发送失败!", Toast.LENGTH_SHORT).show();
+                                mPost = new Post();
+                                progressDialog.dismiss();
+                            }
+                        });
+                    }
+                }
+
+                @Override
+                public void onProgress(int curIndex, int curPercent, int total, int totalPercent) {
+                    progressDialog.setMessage("上传中 " + curPercent + "%");
+                }
+
+                @Override
+                public void onError(int i, String s) {
+                    Toast.makeText(NewPostActivity.this, "发送失败：" + s, Toast.LENGTH_SHORT).show();
+                    mPost = new Post();
+                    progressDialog.dismiss();
+                }
+            });
+        }else if(content!=null && content!=""){
+            mPost.setAuthor(DemoHelper.getInstance().getCurrentUsernName());
+            if(content!=null && content!=""){
+                mPost.setContent(content);
+            }
+            PostModel postModel = new PostModel();
+            postModel.createPost(mPost, new PostModelImpl.PostListener<String>() {
+                @Override
+                public void getSuccess(String s) {
+                    progressDialog.dismiss();
+                    Toast.makeText(NewPostActivity.this,"发送成功",Toast.LENGTH_SHORT).show();
+                    finish();
+                }
+                @Override
+                public void getFailure() {
+                    Toast.makeText(NewPostActivity.this, "发送失败!", Toast.LENGTH_SHORT).show();
+                    mPost = new Post();
+                    progressDialog.dismiss();
+                }
+            });
         }
     }
 
