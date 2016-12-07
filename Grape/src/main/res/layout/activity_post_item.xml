@@ -57,9 +57,25 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/post_margin_top_2"
-            android:layout_marginBottom="@dimen/post_margin_top_2"
             android:lineSpacingExtra = "5dp"
             android:textColor="@color/black"
             android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/post_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/post_margin_top"/>
+
+        <com.hyphenate.chatuidemo.widget.PostPhotoGridView
+            android:id="@+id/post_gridview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:numColumns="3"
+            android:columnWidth="120dp"
+            android:gravity="center"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="10dp" >
+        </com.hyphenate.chatuidemo.widget.PostPhotoGridView>
     </LinearLayout>
 </android.support.v7.widget.CardView>

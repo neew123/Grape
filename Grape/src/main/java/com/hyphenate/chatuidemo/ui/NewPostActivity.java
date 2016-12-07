@@ -105,8 +105,8 @@ public class NewPostActivity extends BaseActivity{
                 // 标题颜色 （默认白色）
                 .titleTextColor(getResources().getColor(R.color.white))
                 // 开启多选   （默认为多选）  (单选 为 singleSelect)
-                .singleSelect()
-                //.crop()
+//                .singleSelect()
+                .crop()
                 // 多选时的最大数量   （默认 9 张）
                 .mutiSelectMaxSize(photoRemain)
                 // 已选择的图片路径

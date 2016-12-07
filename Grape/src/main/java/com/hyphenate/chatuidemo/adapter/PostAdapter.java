@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
@@ -18,8 +19,11 @@ import com.hyphenate.EMValueCallBack;
 import com.hyphenate.bmob.domain.Post;
 import com.hyphenate.chatuidemo.DemoHelper;
 import com.hyphenate.chatuidemo.R;
+import com.hyphenate.chatuidemo.widget.PostPhotoGridView;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.utils.EaseUserUtils;
+
+import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -122,6 +126,8 @@ public class PostAdapter extends RecyclerView.Adapter {
             ((PostViewHolder)holder).nickname.setText(user.getNick());
             if(post.getContent()!=null && post.getContent()!="") {
                 ((PostViewHolder) holder).content.setText(post.getContent());
+            }else {
+                ((PostViewHolder) holder).content.setVisibility(View.GONE);
             }
 
             if(user.getAvatar()==null) {
@@ -145,6 +151,15 @@ public class PostAdapter extends RecyclerView.Adapter {
             }
             else {
                 Glide.with(context).load(user.getAvatar()).diskCacheStrategy(DiskCacheStrategy.ALL).placeholder(R.drawable.ease_default_avatar).into(((PostViewHolder) holder).photo);
+            }
+
+            if(post.getPhotoList()!=null && !post.getPhotoList().isEmpty()){
+                Log.e(TAG, "onBindViewHolder: "+post.getPhotoList().size() );
+                ((PostViewHolder)holder).gridview.setVisibility(View.VISIBLE);
+                PostPhotoAdapter adapter = new PostPhotoAdapter(context,post.getPhotoList());
+                ((PostViewHolder)holder).gridview.setAdapter(adapter);
+            }else {
+                ((PostViewHolder)holder).gridview.setVisibility(View.GONE);
             }
 
         }else if(holder instanceof ProgressViewHolder){
@@ -187,6 +202,7 @@ public class PostAdapter extends RecyclerView.Adapter {
         private TextView nickname;
         private TextView sendtime;
         private TextView content;
+        private PostPhotoGridView gridview;
 
         public PostViewHolder(View itemView) {
             super(itemView);
@@ -194,6 +210,7 @@ public class PostAdapter extends RecyclerView.Adapter {
             nickname = (TextView)itemView.findViewById(R.id.post_nickname);
             sendtime = (TextView)itemView.findViewById(R.id.post_sendtime);
             content = (TextView)itemView.findViewById(R.id.post_content);
+            gridview = (PostPhotoGridView)itemView.findViewById(R.id.post_gridview);
         }
     }
 
