@@ -5,6 +5,7 @@ import android.animation.ObjectAnimator;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.SystemClock;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -24,13 +25,12 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chatuidemo.DemoHelper;
 import com.hyphenate.chatuidemo.R;
 import com.hyphenate.chatuidemo.adapter.PostAdapter;
-import com.hyphenate.chatuidemo.widget.ObservableScrollView;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.easeui.widget.EaseTitleBar;
+import com.hyphenate.util.DensityUtil;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
 
 /**
  * Created by cheng on 16-12-1.
@@ -48,6 +48,7 @@ public class MarketActivity extends BaseActivity implements View.OnClickListener
     private PostAdapter postAdapter;
     private List<Post> postList = null;
     private int pageNum = 0;
+    private long[] mHits = new long[2];
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -63,6 +64,7 @@ public class MarketActivity extends BaseActivity implements View.OnClickListener
         fab = (ImageButton)findViewById(R.id.fab);
         fab.setOnClickListener(this);
         titlebar = (EaseTitleBar)findViewById(R.id.title_bar);
+
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             int blue = getResources().getColor(R.color.holo_blue_bright,getTheme());
             int green = getResources().getColor(R.color.holo_green_light,getTheme());
@@ -82,29 +84,32 @@ public class MarketActivity extends BaseActivity implements View.OnClickListener
             }
         });
 
-//        scrollView.setScrollListener(new ObservableScrollView.ScrollListener() {
-//            @Override
-//            public void scrollOritention(int oritention) {
-//                if(oritention == ObservableScrollView.SCROLL_UP && fab.getVisibility() == View.VISIBLE ){
-//                    hideFabAnim();
-//                }
-//                if(oritention == ObservableScrollView.SCROLL_DOWN && fab.getVisibility() == View.GONE ){
-//                    showFabAnim();
-//                }
-//            }
-//        });
-
         refreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
                 postList.clear();
                 pageNum = 0;
-                updateData(pageNum++);
+                updateData(pageNum++,true);
             }
         });
 
         initRecycleView();
+
+        titlebar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                System.arraycopy(mHits, 1, mHits, 0, mHits.length - 1);
+                //实现左移，然后最后一个位置更新为距离开机的时间，如果最后一个时间和最开始时间小于2000，即n击
+                mHits[mHits.length - 1] = SystemClock.uptimeMillis();
+                long spaceTime = mHits[mHits.length - 1] - mHits[0];
+                if ( 1000 >= spaceTime  ) {
+                    recyclerView.getLayoutManager().smoothScrollToPosition(recyclerView,null,0);
+                }
+            }
+        });
     }
+
+
 
     private void initRecycleView() {
         postList = new ArrayList();
@@ -117,11 +122,11 @@ public class MarketActivity extends BaseActivity implements View.OnClickListener
                 new PostAdapter.LoadMoreDataListener() {
                     @Override
                     public void loadMoreData() {
-                        updateData(pageNum++);
+                        updateData(pageNum++,false);
                     }
                 });
 
-        updateData(pageNum++);
+        updateData(pageNum++,true);
 
         postAdapter.setOnItemClickListener(new PostAdapter.RecyclerOnItemClickListener(){
             @Override
@@ -148,8 +153,14 @@ public class MarketActivity extends BaseActivity implements View.OnClickListener
         });
     }
 
-    private void updateData(int pageNum){
+    private void updateData(int pageNum,boolean showRefresh){
         Log.e(TAG, "updateData: loading" );
+
+        if(refreshLayout!=null && !refreshLayout.isRefreshing() && showRefresh){
+            refreshLayout.setProgressViewOffset(false, 0, DensityUtil.dip2px(MarketActivity.this, 24));
+            refreshLayout.setRefreshing(true);
+        }
+
         new PostModel().getPost(pageNum, new PostModelImpl.PostListener<List<Post>>() {
             @Override
             public void getSuccess(List<Post> posts) {
@@ -173,17 +184,6 @@ public class MarketActivity extends BaseActivity implements View.OnClickListener
                 }
             }
         });
-//        if(test<3) {
-//            test+=1;
-//            for (int i = 0; i < 10; i++) {
-//                postList.add(new Post());
-//            }
-//        }
-//
-//        if(test<3)
-//            postAdapter.setList(postList,true);
-//        else
-//            postAdapter.setList(postList,false);
     }
 
     private void hideFabAnim(){
